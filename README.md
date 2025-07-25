@@ -4,6 +4,7 @@
 
 ## 🚀 Projects
 - [Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model
+- [Kevin Veeder's Website 2021 (archived)](https://github.com/kevinveeder/kevinveeder.me) - personal website/portfolio from 2021 (not currently maintained)
 
 
 ## 💡 Interests
