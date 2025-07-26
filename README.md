@@ -4,18 +4,19 @@
 
 ## 🎓 Data Science M.S. Projects
 - [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
+- [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end Project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
-- [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
+
 
 ## 🏈 Sports Analysis & Web Scraping
-- coming soon
+- (**_Coming Soon_**)
 
 ## 🛠️ Software Development
 - [Kevin Veeder's Website 2021 (archived)](https://github.com/kevinveeder/kevinveeder.me) - personal website/portfolio from 2021 (not maintained or *currently* hosted)
 
 ## 🤖 AI Projects
-- [Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model (still need to build this out)
+- [Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model (**_Coming Soon_**)
 
 ## 💡 Interests
 NFL fantasy sports analysis, machine learning, deep learning, NLP, generative models, information security, AI. 
