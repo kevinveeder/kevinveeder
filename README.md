@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Veeder
 
-*Future* Machine Learning Engineer | M.S. in Data Science | B.S. in Statistics | Software Development & Business Analysis | Python, TensorFlow, PyTorch
+*Future* Machine Learning Engineer | Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python, keras, TensorFlow, scikit-learn, SQL
 
 ## 🎓 Data Science M.S. Projects
 - coming soon
