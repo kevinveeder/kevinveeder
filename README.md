@@ -6,6 +6,7 @@
 - [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end Project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
+- [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
 
 ## 🏈 Sports Analysis & Web Scraping
 - coming soon
