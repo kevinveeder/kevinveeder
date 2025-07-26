@@ -3,8 +3,8 @@
 *Future* Machine Learning Engineer | Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python, R, keras, TensorFlow, scikit-learn, SQL
 
 ## 🎓 Data Science M.S. Projects
-- [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics)
-- [Machine Learning Models | End-to-end project](https://github.com/kevinveeder/ml-models-project)
+- [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
+- [Machine Learning Models | End-to-end project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
 
 ## 🏈 Sports Analysis & Web Scraping
 - coming soon
