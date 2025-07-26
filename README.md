@@ -3,7 +3,7 @@
 *Future* Machine Learning Engineer | Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python, R, keras, TensorFlow, scikit-learn, SQL
 
 ## 🎓 Data Science M.S. Projects
-- [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann)
+- [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
 
