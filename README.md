@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Veeder
 
-Future Machine Learning Engineer | M.S. in Data Science (4.0 GPA) | Python, TensorFlow, PyTorch
+*Future* Machine Learning Engineer | M.S. in Data Science | Python, TensorFlow, PyTorch
 
 ## 🎓 Data Science M.S. Projects
 - coming soon
