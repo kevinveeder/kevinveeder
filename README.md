@@ -12,15 +12,14 @@
 ## Kaggle Projects
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
 
-
-## 🏈 Sports Analysis & Web Scraping
-- (**_Coming Soon_**)
-
-## 🛠️ Software Development
+## 🛠️ Software Development (*old*)
 - [Kevin Veeder's Website 2021 (archived)](https://github.com/kevinveeder/kevinveeder.me) - personal website/portfolio from 2021 (not maintained or *currently* hosted)
 
-## 🤖 AI Projects
+## 🤖 AI Projects (*not done*)
 - [Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model (**_Coming Soon_**)
+
+## 🏈 Sports Analysis & Web Scraping
+- (**_Still building out repos_**)
 
 ## 💡 Interests
 NFL fantasy sports analysis, machine learning, deep learning, NLP, generative models, information security, AI. 
