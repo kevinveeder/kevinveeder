@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kevin
+# 👋 Hey, I'm Kevin.
 
 *Future* ML Engineer | Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python | R | SQL | Tableau
 
