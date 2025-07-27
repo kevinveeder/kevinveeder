@@ -9,6 +9,9 @@
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end Project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
 
+## Kaggle Projects
+- [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
+
 
 ## 🏈 Sports Analysis & Web Scraping
 - (**_Coming Soon_**)
