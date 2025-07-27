@@ -27,3 +27,5 @@ NFL fantasy sports analysis, machine learning, deep learning, NLP, generative mo
 ## 📫 Contact
 - LinkedIn: [Kevin Veeder](https://www.linkedin.com/in/kevinadrianveeder/)
 - Email: kev.veeder@gmail.com
+---
+## [Click here for a walkthrough on how to run my notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
