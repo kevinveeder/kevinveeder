@@ -2,7 +2,7 @@
 
 Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python | R | SQL | Tableau
 
-- [Click here for a walkthrough on how to run my notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
+- [How to run my notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
 ## 🎓 Data Science M.S. Projects
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
