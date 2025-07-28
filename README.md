@@ -14,7 +14,7 @@ Data Science M.S. | Statistics B.S. | Software Development & Business Analysis |
 ## 🏅 Kaggle Projects
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
 
-## 🏈 Sports Predictions, & Web Scraping
+## 🏈 Sports Predictions & Web Scraping
 - [NFL Fantasy Player Projections 2025](https://github.com/kevinveeder/fantasy-predictions-reg) - web scraping nfl player data, training a linear regression model, and generating full-season point predictions to highlight potential sleepers or overvalued players for fantasy football 2025
 
 ## 🛠️ Software Development (*old*)
