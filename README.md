@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kevin.
 
-Data Science M.S. | Statistics B.S. | Software Development & Business Analysis | Python | R | SQL | Tableau
+Data Science M.S. | Statistics B.S. | Python | R | SQL 
 
 - [How to run my notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
