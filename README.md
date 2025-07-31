@@ -17,14 +17,17 @@ Data Science M.S. | Statistics B.S. | Python | R | SQL
 ## 🏈 Scraping & Sports Predictions
 - [NFL Fantasy Player Projections 2025](https://github.com/kevinveeder/fantasy-predictions-reg) - web scraping nfl player data, training a linear regression model, and generating full-season point predictions to highlight potential sleepers or overvalued players for fantasy football 2025
 
+## 🧰 Boilerplate
+- [Deployable ML Prediction Service Template](https://github.com/kevinveeder/ml-production) - flask api ml prediction service, containerized with docker, designed for rapid deployment. Just add data!
+
 ## 🛠️ Software Development (*old*)
 - [Kevin Veeder's Website 2021 (archived)](https://github.com/kevinveeder/kevinveeder.me) - personal website/portfolio from 2021 (not maintained or *currently* hosted)
 
-## 🤖 AI Projects (*not done*)
-- [Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model (**_Coming Soon_**)
+## 🤖 AI Projects
+- ~~[Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model~~ (**_Coming Soon_**)
 
 ## 💡 Interests
-NFL fantasy sports analysis, machine learning, deep learning, NLP, generative models, information security, AI. 
+fantasy sports, machine learning, deep learning, NLP, web scraping, data wrangling, generative models, information security, AI. 
 
 ## 📫 Contact
 - LinkedIn: [Kevin Veeder](https://www.linkedin.com/in/kevinadrianveeder/)
