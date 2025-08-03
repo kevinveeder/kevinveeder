@@ -2,6 +2,8 @@
 
 Data Science M.S. | Statistics B.S. | Python | R | SQL 
 
+After working as a Software Developer at General Motors building React components and ETL pipelines, I developed a strong foundation in full-stack development but realized I was more excited by the data challenges than the frontend work. While I enjoyed the technical problem-solving, I found myself gravitating toward the analytical side - especially when working with data integration and trying to extract insights from complex datasets. With my background in statistics and math, I decided to pivot toward machine learning and went back to school for my Master’s in Data Science. Python has become my go-to language for everything from data preprocessing to model deployment, and I love being able to combine my full-stack engineering experience with statistical modeling to build end-to-end ML solutions.​​​​​​​​​​​​​​​​
+
 - [How to run jupyter notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
 ## 🎓 Data Science Projects
