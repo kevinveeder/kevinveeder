@@ -13,7 +13,7 @@ Data Science M.S. | Statistics B.S. | Python | R | SQL
 
 ## 🏈 Scraping & Sports Predictions
 - [2025 NFL Fantasy Predictor --> CSV for Drafting](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
-- [NFL Fantasy Player Projections 2025](https://github.com/kevinveeder/fantasy-predictions-reg) - web scraping nfl player data, training a linear regression model, and generating full-season point predictions to highlight potential sleepers or overvalued players for fantasy football 2025
+- ~~[NFL Fantasy Player Projections 2025](https://github.com/kevinveeder/fantasy-predictions-reg) - web scraping nfl player data, training a linear regression model, and generating full-season point predictions to highlight potential sleepers or overvalued players for fantasy football 2025~~
 
 ## 🏅 Kaggle Projects
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
