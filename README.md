@@ -25,7 +25,7 @@ Data Science M.S. | Statistics B.S. | Python | R | SQL
 - [Kevin Veeder's Website 2021 (archived)](https://github.com/kevinveeder/kevinveeder.me) - personal website/portfolio from 2021 (not maintained or *currently* hosted)
 
 ## 🤖 AI Projects
-- ~~[Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model~~ (**_Coming Soon_**)
+- ~~[Local Chatbot](https://github.com/kevinveeder/ollama-chatbot) – local chatbot using langchain and ollama's gemma3 model~~ (*__coming soon__*)
 
 ## 💡 Interests
 fantasy sports, machine learning, deep learning, NLP, web scraping, data wrangling, generative models, information security, AI. 
