@@ -4,16 +4,15 @@ Data Science M.S. | Statistics B.S. | Python | R | SQL
 
 - [How to run jupyter notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
+## 🏈 Scraping & Sports Predictions
+- [2025 NFL Fantasy Predictor --> CSV for Drafting](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - **START HERE!** web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
+
 ## 🎓 Data Science Projects
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
 - [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
 - [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end Project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
-
-## 🏈 Scraping & Sports Predictions
-- [2025 NFL Fantasy Predictor --> CSV for Drafting](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - **START HERE!** web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
-- ~~[NFL Fantasy Player Projections 2025](https://github.com/kevinveeder/fantasy-predictions-reg) - web scraping nfl player data, training a linear regression model, and generating full-season point predictions to highlight potential sleepers or overvalued players for fantasy football 2025~~ (*__under construction__*)
 
 ## 🏅 Kaggle Projects
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
