@@ -1,5 +1,5 @@
 ## Scraping & Sports Predictions
-- [NFL Fantasy Predictor --> CSV for Drafting (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
+- [NFL Fantasy Predictor --> Draft Board (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
 
 ## Data Science Projects
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
