@@ -24,7 +24,6 @@
 After working as a Software Developer at General Motors building React components and ETL pipelines, I realized I was way more interested in the data side than frontend development. The parts of my job I got most excited about were working with datasets and extracting insights from them. With my statistics background, machine learning felt like a natural fit, so I went back to school for my Master’s in Data Science. Python is now my go-to language for everything from data preprocessing to model deployment, and I love combining my full-stack development experience with statistical modeling to build end-to-end ML solutions.​​​​​​​​​​​​​​​​ 
 -->
 ## Contact
-- LinkedIn: [Kevin Veeder](https://www.linkedin.com/in/kevinadrianveeder/)
 - Email: kev.veeder@gmail.com
 
 ----
