@@ -1,8 +1,6 @@
-# 👋 Hey, I'm Kevin.
+# 👋 Hey, I'm Kevin
 
 Data Science M.S. | Statistics B.S. | Python | R | SQL 
-
-- [How to run jupyter notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
 ## 🏈 Scraping & Sports Predictions
 - [NFL Fantasy Predictor --> CSV for Drafting (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
@@ -32,5 +30,9 @@ After working as a Software Developer at General Motors building React component
 ## 📫 Contact
 - LinkedIn: [Kevin Veeder](https://www.linkedin.com/in/kevinadrianveeder/)
 - Email: kev.veeder@gmail.com
+
+----
+
+- [How to run jupyter notebooks](https://github.com/kevinveeder/how-to-run-jupyter-notebooks)
 
 
