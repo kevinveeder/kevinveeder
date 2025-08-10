@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kevin
 
-Data Science M.S. | Statistics B.S. | Python | R | SQL 
+Data Science M.S. | Statistics B.S. | Python 
 
 ## 🏈 Scraping & Sports Predictions
 - [NFL Fantasy Predictor --> CSV for Drafting (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a fantasy draft cheat sheet (csv file) for the upcoming 2025 season. And its all in one python script, what could be better?
