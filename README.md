@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kevin
+# Hey, I'm Kevin
 
 Data Science M.S. | Statistics B.S. | Python 
 
