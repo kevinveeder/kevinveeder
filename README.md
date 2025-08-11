@@ -25,6 +25,7 @@ After working as a Software Developer at General Motors building React component
 -->
 ## Contact
 - Email: kev.veeder@gmail.com
+- Resume: [Resume (markdown version)](https://github.com/kevinveeder/how-to-run-jupyter-notebooks/blob/main/Resume.md)
 
 ----
 
