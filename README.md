@@ -4,7 +4,7 @@
 ## Games
 - [Python Practice Challenges](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with your local device (built with python for python users)
 
-## Data Science Projects
+## Data Science M.S. Projects
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
 - [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
 - [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
