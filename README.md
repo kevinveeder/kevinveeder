@@ -1,7 +1,7 @@
 ## Scraping & Sports Predictions
 - [NFL Fantasy Predictor --> Draft Board (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a draft board cheat sheet (csv file) for the upcoming season. And its all in one python script, what could be better?
 
-## Games
+## Games Built
 - [Python Practice Challenges](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with your local device (built with python for python users)
 
 ## Data Science Projects
