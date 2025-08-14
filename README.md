@@ -3,7 +3,7 @@
 - [Public Opinion Scraper, Analyzer & Dashboard](https://github.com/kevinveeder/public-opinion-scraper) - understand how the public perceives specific topics, brands, or events in real-time
 
 ## Games
-- [CLI Coding Practice](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with your local device (built with python for python users)
+- [Coding Challenges/Practice from CLI](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with your local device (built with python for python users)
 
 ## Data Science M.S.
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
