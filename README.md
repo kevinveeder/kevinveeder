@@ -1,18 +1,18 @@
-## Recent Fun
+## Recent Projects
 - [NFL Fantasy Predictor --> Draft Board (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a draft board cheat sheet (csv file) for the upcoming season. And its all in one python script, what could be better?
 - [Public Opinion Scraper, Analyzer & Dashboard](https://github.com/kevinveeder/public-opinion-scraper) - understand how the public perceives specific topics, brands, or events in real-time
 
 ## Games
 - [Python Practice Challenges](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with your local device (built with python for python users)
 
-## Data Science M.S. Projects
+## Data Science M.S.
 - [Sequence Modeling in NLP](https://github.com/kevinveeder/hidden_markov_viterbi_nlp) - implemented/evaluated hidden markov models with viterbi decoding for POS tagging using the brown corpus and smoothing techniques
 - [Exploring 3D Sinusoidal Data With Artificial Neural Networks](https://github.com/kevinveeder/exploring-sin-ann) - using artificial neural networks to model noisy 3D sinusoidal data
 - [Syntax Tree Parsing using the CKY Algorithm | NLTK](https://github.com/kevinveeder/cky-parsing) - parsing natural language with context-free grammars
 - [AI Ethics | Unveiling Hiring Bias](https://github.com/kevinveeder/ai-ethics) - capstone project for ai ethics course focusing on hiring bias
 - [Machine Learning Models | End-to-end Project](https://github.com/kevinveeder/ml-models-project) - end-to-end ml project for predicting student success
 
-## Kaggle Projects
+## Kaggle
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
 
 ## Boilerplate
