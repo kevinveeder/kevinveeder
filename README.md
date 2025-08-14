@@ -1,4 +1,4 @@
-## Scraping & Sports Predictions
+## Recent Fun
 - [NFL Fantasy Predictor --> Draft Board (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - web scraping nfl player data, training a model, and outputing a draft board cheat sheet (csv file) for the upcoming season. And its all in one python script, what could be better?
 - [Public Opinion Scraper, Analyzer & Dashboard](https://github.com/kevinveeder/public-opinion-scraper) - understand how the public perceives specific topics, brands, or events in real-time
 
