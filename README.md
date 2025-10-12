@@ -1,7 +1,7 @@
 ## Recent Projects
 - [NFL Fantasy Predictor --> Draft Guide (**START HERE!**)](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2) - ML-based fantasy football predictor with a draft guide cheat sheet
 - [Public Opinion Scraper, Analyzer & Dashboard](https://github.com/kevinveeder/public-opinion-scraper) - understand how the public perceives specific topics, brands, or events in real-time
-- [BTC Investment Calculator](https://github.com/kevinveeder/btc-dashboard) - historical prices and forecasts
+- [BTC Investment Calculator](https://github.com/kevinveeder/btc-dashboard) - investment calculator with historical prices and forecasts
 
 ## Games
 - [Python Challenges/Practice (CLI)](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with this interactive Python learning game
