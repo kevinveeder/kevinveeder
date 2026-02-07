@@ -17,6 +17,8 @@
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
 
 ## Boilerplate
+- [Email Listener --> Upload Automation](https://github.com/kevinveeder/email-listener-ftp) - email scraper & uploader scripts (upload via secure FTPS or Browser Automation options)
+
 - [Deployable ML Prediction Service Template](https://github.com/kevinveeder/ml-production) - flask api ml prediction service, containerized with docker, designed for rapid deployment. Just add data!
 <!--
 ## 🛠Software Development (*old*)
