@@ -3,6 +3,9 @@
 - [Public Opinion Scraper, Analyzer & Dashboard](https://github.com/kevinveeder/public-opinion-scraper) - understand how the public perceives specific topics, brands, or events in real-time
 - [BTC Investment Calculator](https://github.com/kevinveeder/btc-dashboard) - investment calculator using historical prices + forecasts
 
+## Automation
+- [Email Listener --> Upload Automation](https://github.com/kevinveeder/email-listener-ftp) - email scraper & uploader scripts (upload via secure FTPS or Browser Automation options)
+
 ## Games
 - [Python Challenges/Practice (CLI)](https://github.com/kevinveeder/code-challenge-arena) - practice coding anywhere with this interactive Python learning game
 
@@ -17,7 +20,6 @@
 - [Handwritten Digit Recognizer with CNN](https://github.com/kevinveeder/digit-cnn) - using convolutional neural networks (CNN) to classify handwritten digits from the popular MNIST dataset
 
 ## Boilerplate
-- [Email Listener --> Upload Automation](https://github.com/kevinveeder/email-listener-ftp) - email scraper & uploader scripts (upload via secure FTPS or Browser Automation options)
 
 - [Deployable ML Prediction Service Template](https://github.com/kevinveeder/ml-production) - flask api ml prediction service, containerized with docker, designed for rapid deployment. Just add data!
 <!--
